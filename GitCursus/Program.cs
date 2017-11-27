@@ -10,6 +10,7 @@ namespace GitCursus
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hallo");
         }
     }
 }
